@@ -7,3 +7,4 @@ Brain Machine interface data analysis involves:
 
 ## Run code
 main.m is the orchestrator script for the project.
+Since this repository only contains sample source code, it doesn't have all packages to run the orchestrator script successfully.
